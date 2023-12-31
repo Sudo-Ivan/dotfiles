@@ -6,7 +6,7 @@
 #  ███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██║██████╔╝    ██║  ██║██║╚██████╗███████╗
 #  ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝╚═════╝     ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝
 #  Author  :  z0mbi3
-#  Url     :  https://github.com/gh0stzk/dotfiles
+#  Url     :  https://github.com/Sudo-Ivan/dotfiles
 #  About   :  This file will configure and launch the rice.
 #
 

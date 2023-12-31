@@ -7,7 +7,7 @@
 #  ██████╔╝███████║██║     ╚███╔███╔╝██║ ╚═╝ ██║██║  ██║╚██████╗
 #  ╚═════╝ ╚══════╝╚═╝      ╚══╝╚══╝ ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
 #	- z0mbi3
-#	- https://github.com/gh0stzk/dotfiles
+#	- https://github.com/Sudo-Ivan/dotfiles
 #	- z0mbi3.zk@protonmail.com
 #
 
@@ -29,7 +29,7 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 		#bspc monitor "$monitor" -d '' '' '' '' '' ''
 	done
 
-	## For two or three monitors configuration see https://github.com/gh0stzk/dotfiles/wiki/Two-or-more-monitors-setup
+	## For two or three monitors configuration see https://github.com/Sudo-Ivan/dotfiles/wiki/Two-or-more-monitors-setup
 
 #  ╔╗ ╔═╗╔═╗╦ ╦╔╦╗  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗
 #  ╠╩╗╚═╗╠═╝║║║║║║  ║  ║ ║║║║╠╣ ║║ ╦

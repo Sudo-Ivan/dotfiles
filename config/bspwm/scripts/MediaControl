@@ -7,7 +7,7 @@
 #  ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 #
 #	Author	:	gh0stzk
-#	Url		:	https://github.com/gh0stzk/dotfiles
+#	Url		:	https://github.com/Sudo-Ivan/dotfiles
 #	Info	:	This script uses playerctl and mpc to control the multimedia playback
 #				"stop, pause, play, next, previous" of different players like
 #				spotify, ncmpcpp, clementine, strawberry and others.

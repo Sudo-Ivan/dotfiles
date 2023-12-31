@@ -103,7 +103,7 @@ clear
 
 logo "Downloading dotfiles"
 
-repo_url="https://github.com/gh0stzk/dotfiles"
+repo_url="https://github.com/Sudo-Ivan/dotfiles"
 repo_dir="$HOME/dotfiles"
 
 # Verifica si el directorio del repositorio ya existe y, si es así, lo elimina

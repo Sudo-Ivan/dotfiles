@@ -6,7 +6,7 @@
 #  ╚██╗ ██╔╝██║   ██║██║     ██║   ██║██║╚██╔╝██║██╔══╝  
 #   ╚████╔╝ ╚██████╔╝███████╗╚██████╔╝██║ ╚═╝ ██║███████╗
 #    ╚═══╝   ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-#  gh0stzk            https://github.com/gh0stzk/dotfiles
+#  gh0stzk            https://github.com/Sudo-Ivan/dotfiles
 
 get_vol () {
   volumen=$(pamixer --get-volume-human | tr -d '%')

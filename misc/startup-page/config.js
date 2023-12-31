@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'z0mbi3 dots',
-					link: 'https://github.com/gh0stzk/dotfiles',
+					link: 'https://github.com/Sudo-Ivan/dotfiles',
 				},
 				{
 					name: 'Arch Linux',
